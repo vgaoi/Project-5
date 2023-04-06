@@ -1,0 +1,25 @@
+@charset "utf-8"
+
+
+/* Page Body Styles */
+
+Body {
+    font-family: Verdana, Geneva, Arial, sans-serif; 	
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+ }
+ 
+
+Body {
+    background-image: url("Background.jpg")
+}
+ 
+h1{
+    text-align:center
+}
+
+h2 {
+    text-align:left
+    font-family: Verdana, Geneva, Arial, sans-serif;
+}
